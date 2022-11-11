@@ -1,0 +1,9 @@
+App(
+    appid="mouse_jiggler",
+    name="Mouse Jiggler",
+    apptype=FlipperAppType.PLUGIN,
+    entry_point="mouse_jiggler_app",
+    requires=["gui"],
+    stack_size=1 * 1024,
+    fap_category="Misc",
+)

@@ -44,6 +44,7 @@ Extra apps for Plugins & App Loader menus.
 - `music_player`        - Music player app (demo)
 - `picopass`            - Picopass tool
 - `snake_game`          - Snake game application
+- `mouse_jiggler`       - Mouse jiggler application
 
 
 ## services
